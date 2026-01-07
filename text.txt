@@ -1,0 +1,6 @@
+Hello, World!
+This is a test of the typing script running as a Windows service.
+Here are some Swedish letters: åäö ÅÄÖ
+
+You can edit this file to change what gets typed.
+The service will read this file each time it starts a new typing session.

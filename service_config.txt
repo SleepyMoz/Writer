@@ -1,0 +1,23 @@
+# Auto Writer Service Configuration
+# Edit these values to customize the service behavior
+
+# Initial delay before typing starts (seconds)
+delay=5.0
+
+# Minimum delay between characters (seconds)
+min_interval=0.02
+
+# Maximum delay between characters (seconds)
+max_interval=0.12
+
+# Randomize delays between min and max (true/false)
+randomize=true
+
+# Automatically restart typing after completion (true/false)
+restart_on_completion=true
+
+# Delay before restarting (seconds)
+restart_delay=10.0
+
+# Path to text file (optional - defaults to text.txt in same directory)
+# text_file=C:\path\to\your\text.txt
